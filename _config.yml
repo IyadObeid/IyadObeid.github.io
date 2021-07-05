@@ -1,4 +1,6 @@
-title: Welcome to Iyad
-description: Iyad is cool
-logo: /assets/img/logo.png
+title: Iyad Obeid
+logo: /assets/img/headshot.jpg
+description: Homepage for Iyad Obeid
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
